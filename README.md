@@ -14,7 +14,7 @@ in Google Looker Studio and aggregated data from varioussources such as Google S
 ## Work Experience
 **Mathn Tutur at Mathema**
 ##### January2023 - Present
-During my tenure as amathematics tutor,I honed my teaching abilities anddeveloped valuable soft skills. Icultivated effective communication, adaptability,and patience, ensuring studentsgrasped complex mathematical concepts with ease.
+During my tenure as a mathematics tutor,I honed my teaching abilities and developed valuable soft skills. Icultivated effective communication, adaptability and patience, ensuring studentsgrasped complex mathematical concepts with ease.
 ## Projects
 
 ### Dashboard with a website advertising funnel

@@ -1,9 +1,14 @@
 **Junior Analyst**
+
 Hard-working, creative and proactive. Ambitious,motivated, eager to keep growing and evolvingin my profession. Constantly developing new skills and abilities.
+
 **Technical Skills: Python, SQL, C++, NumPy, Pandas, Google Analytics 4, Google Tag Manager, Google BigQuery, Google Looker(Data) Studio, Google Workspace, Microsoft Excel**
+
 **Education**
+
 **Bachelor's degree of Computer Science and Cybernetics, Taras Shevchenko National University of Kyiv**
 September 2022- June2026
+
 **Internship Product Analyst**
 June 2023 - September 2023
 During my internship as a Product Analyst, my main tasks revolved around familiarizing myself with web analytics and product analytics. Iconstructed high-level dashboards

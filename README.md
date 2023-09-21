@@ -27,14 +27,17 @@ During my tenure as a mathematics tutor,I honed my teaching abilities and develo
 **Projects**
 
 **Dashboard with a website advertising funnel**
+
 This dashboard is designed to track and optimize the funnel of an advertising website. It provides a comprehensive overview of visitors, conversions, and campaigns. Find out which ad campaigns attract more visitors and drive more conversions to improve your promotion strategy and boost your website's performance.
 - https://lookerstudio.google.com/s/t38JXwPCcow
 
 **Dashboard from a web analytics dataset**
+
 Looker Studio's dashboard is designed to provide a comprehensive overview and analysis of key metrics related to a website's advertising performance over time. This dashboard allows users to gain insights into various aspects of their advertising efforts, track trends, and make data-driven decisions to optimize their marketing strategies.
 - https://lookerstudio.google.com/reporting/931ef9a6-dc9a-473c-bd19-513393144f3f
 
 **Department store dashboard**
+
 The department store dashboard provides a comprehensive overview of sales performance. It displays data on salespeople, department affiliation, revenue achieved, and revenue goals. In addition, it visualizes gross profit margin and profit margin goals for each salesperson. This dashboard facilitates effective sales monitoring and goal tracking, helping to evaluate performance and make strategic decisions in the department store.
 - https://lookerstudio.google.com/reporting/ccb917a4-17d9-46ff-a5cc-3a424bbf23ae
 

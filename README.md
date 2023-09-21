@@ -7,16 +7,21 @@ Hard-working, creative and proactive. Ambitious,motivated, eager to keep growing
 **Education**
 
 **Bachelor's degree of Computer Science and Cybernetics, Taras Shevchenko National University of Kyiv**
+
 September 2022- June2026
 
 **Internship Product Analyst**
+
 June 2023 - September 2023
+
 During my internship as a Product Analyst, my main tasks revolved around familiarizing myself with web analytics and product analytics. Iconstructed high-level dashboards
 in Google Looker Studio and aggregated data from varioussources such as Google Search Console, and GA4.Additionally,I extracted and structured information related to paid traffic channels, monitoring traffic activity, and conversion rates.Thisexperience allowed me to gain a deeper understanding of how data driven insights can inform product decisions and improve overall performance, making me well-equipped to contribute effectively inthe field of product analysisin the future.
 
 **Work Experience**
 **Math Tutur at Mathema**
+
 January2023 - Present
+
 During my tenure as a mathematics tutor,I honed my teaching abilities and developed valuable soft skills. Icultivated effective communication, adaptability and patience, ensuring studentsgrasped complex mathematical concepts with ease.
 
 **Projects**
